@@ -1,0 +1,15 @@
+{
+  "name": "mdx-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-mdx-0-out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mdx-js/mdx": "^1.6.22"
+  }
+}

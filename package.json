@@ -1,0 +1,20 @@
+{
+  "name": "vite-notes",
+  "version": "1.0.0",
+  "description": "Vite 学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShenBao/vite-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShenBao/vite-notes/issues"
+  },
+  "homepage": "https://github.com/ShenBao/vite-notes#readme"
+}
