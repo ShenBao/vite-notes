@@ -1,0 +1,15 @@
+.test-page {
+  background-color: aquamarine;
+  .text {
+    color: blue;
+    &.bg {
+      background-color: bisque;
+    }
+    .red {
+      color: red;
+      &.bg {
+        background-color: azure;
+      }
+    }
+  }
+}

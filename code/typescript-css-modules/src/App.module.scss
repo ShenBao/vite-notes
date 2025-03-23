@@ -1,0 +1,17 @@
+.container {
+  background-color: lightblue;
+  padding: 16px;
+}
+
+.title {
+  color: darkblue;
+}
+
+.test {
+  &.test-a {
+    font-size: 12px;
+  }
+  &.test-b {
+    font-size: 14px;
+  }
+}

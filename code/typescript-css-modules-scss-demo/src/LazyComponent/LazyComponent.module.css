@@ -1,0 +1,10 @@
+/* LazyComponent.module.css */
+.container {
+  color: red;
+}
+.test {
+  font-size: 12px;
+}
+.bg {
+  background-color: rgba(0, 0, 0, 0.1);
+}
